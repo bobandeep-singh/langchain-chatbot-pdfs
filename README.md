@@ -6,3 +6,11 @@
 * faiss-cpu - vector store
 * openai
 * huggingface_hub
+
+
+## Running the application
+> streamlit run main.py
+
+
+## Flow diagram
+![Flow Diagram](./images/FlowDiagram.png)
